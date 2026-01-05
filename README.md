@@ -24,12 +24,6 @@ Tecnologias que quero explorar:
 
 [![Interesses em Desenvolvimento de Jogos](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,unreal,arduino,cs,cpp,flutter,dart)](https://skillicons.dev)
 
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanClimaco&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Alan Clímaco"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanClimaco&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
-</p>
 
 ### 🔗 Conecte-se Comigo
 
