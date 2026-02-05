@@ -28,5 +28,6 @@ Tecnologias que quero explorar:
 ### 🔗 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanclimaco/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver_Site-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://alanclimaco.github.io/Portfolio/)
 
 ---
