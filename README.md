@@ -1,33 +1,42 @@
 <div align="center">
-  <h1>Olá, eu sou o Alan Clímaco 👋</h1>
+  <h1>Alan Clímaco</h1>
+  <p>Desenvolvedor de Software | Web & Mobile</p>
+
+  <a href="https://alanclimaco.github.io/Portfolio/">Portfólio</a>
+  ·
+  <a href="https://www.linkedin.com/in/alanclimaco/">LinkedIn</a>
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+## Sobre mim
 
-Tenho 18 anos, sou estudante de **Engenharia de Software na UNINTER** e técnico em **Informática pelo IFRO**. Tenho interesse em **desenvolvimento mobile (Android)**, **web**, **redes de computadores** e **manutenção de PCs**.
+Sou estudante de Engenharia de Software na UNINTER e técnico em Informática pelo IFRO.
 
-Estou sempre buscando aprender e colaborar em projetos inovadores.
+Atualmente atuo com desenvolvimento de software, principalmente em aplicações web, interfaces e fluxos de sistemas, além de desenvolver projetos independentes.
 
-**Disponível para projetos e novas oportunidades em desenvolvimento de software.**
+Tenho interesse especial em desenvolvimento web, software desktop e desenvolvimento de jogos.
 
-### 🛠️ Habilidades e Ferramentas
+## Tecnologias
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu tenho algum conhecimento:
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
+</p>
+## Interesses
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,kotlin,java,html,css,js,nodejs,react,python,mysql,git,vscode)](https://skillicons.dev)
-
-### 🎮 Interesses e Futuras Explorações
-
-Tecnologias que quero explorar:
-
-[![Interesses em Desenvolvimento de Jogos](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,unreal,arduino,cs,cpp,flutter,dart)](https://skillicons.dev)
-
-
-### 🔗 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanclimaco/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Ver_Site-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://alanclimaco.github.io/Portfolio/)
+Tenho interesse em desenvolvimento de jogos e, mais recentemente, venho explorando bastante scripts e automações para simplificar tarefas, organizar fluxos e criar ferramentas úteis no dia a dia.
 
 ---
+
+<div align="center">
+  <a href="https://alanclimaco.github.io/Portfolio/">Ver Portfólio</a>
+</div>
