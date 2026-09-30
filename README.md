@@ -31,6 +31,7 @@ Tenho interesse especial em desenvolvimento web, software desktop e desenvolvime
   <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
 </p>
+
 ## Interesses
 
 Tenho interesse em desenvolvimento de jogos e, mais recentemente, venho explorando bastante scripts e automações para simplificar tarefas, organizar fluxos e criar ferramentas úteis no dia a dia.
